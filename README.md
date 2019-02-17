@@ -1,2 +1,1 @@
-# Kaggle-Excercise
-For exercises of Kaggle
+24 Ultimate Data Science Projects
