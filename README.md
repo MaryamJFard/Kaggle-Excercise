@@ -1,1 +1,1 @@
-24 Ultimate Data Science Projects
+Data Science Projects
